@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\ProjectManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\migrations\\20240918150856_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:migrations\\20240918150856_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\datacontext\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:datacontext\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\test\\unittest\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:test\\unittest\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\test\\unittest\\taskservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:test\\unittest\\taskservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\validators\\taskitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:validators\\taskitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\validators\\porjectvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:validators\\porjectvalidatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:projectmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|c:\\users\\moham\\projectmanagementapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27ED29DE-76D1-4C9A-9507-9C04E2B2F94B}|ProjectManagementApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\6.0.405\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:22:22.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:22:18.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:22:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\DataContext\\ProjectManagementContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\ProjectManagementContext.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\DataContext\\ProjectManagementContext.cs",
+              "RelativeToolTip": "DataContext\\ProjectManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:26:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240918150856_init.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Migrations\\20240918150856_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240918150856_init.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Migrations\\20240918150856_init.cs",
+              "RelativeToolTip": "Migrations\\20240918150856_init.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:07:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T19:45:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:39:46.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:33:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Test\\UnitTest\\ProjectServiceTests.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest\\ProjectServiceTests.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Test\\UnitTest\\ProjectServiceTests.cs",
+              "RelativeToolTip": "Test\\UnitTest\\ProjectServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:41:24.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Test\\UnitTest\\TaskServiceTest.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest\\TaskServiceTest.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Test\\UnitTest\\TaskServiceTest.cs",
+              "RelativeToolTip": "Test\\UnitTest\\TaskServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:51:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:31:27.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Validators\\TaskItemValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\TaskItemValidator.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Validators\\TaskItemValidator.cs",
+              "RelativeToolTip": "Validators\\TaskItemValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:19:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PorjectValidatior.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Validators\\PorjectValidatior.cs",
+              "RelativeDocumentMoniker": "Validators\\PorjectValidatior.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Validators\\PorjectValidatior.cs",
+              "RelativeToolTip": "Validators\\PorjectValidatior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:18:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:32:55.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:30:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:33:31.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:23:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:23:00.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectManagementApp",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\ProjectManagementApp.csproj",
+              "RelativeDocumentMoniker": "ProjectManagementApp.csproj",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\ProjectManagementApp.csproj",
+              "RelativeToolTip": "ProjectManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T15:42:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\moham\\ProjectManagementApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\moham\\ProjectManagementApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T14:20:09.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\6.0.405\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\6.0.405\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAewI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-17T16:38:43.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
